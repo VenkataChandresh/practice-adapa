@@ -13,3 +13,9 @@ Here are some of my favorite movies:
 1. RRR
 2. Bahubali 2
 3. The karate kid
+
+### Favorite Songs
+
+- Telusa
+- Blinding Lights
+- Starboy
