@@ -50,3 +50,29 @@ There are many cities around the world that I would like to visit in the future.
 ### Oscar Wilde
 
 > Be yourself; everyone else is already taken.
+
+---
+
+## Code Snippet
+
+The following Java code is from `IntListTesterVer2`. This program tests different features of the `IntListVer2` class, including creating lists, comparing lists, adding elements, and displaying their contents.
+
+```java
+public class IntListTesterVer2 {
+    public static void main(String[] args){
+        IntListVer2 list1 = new IntListVer2();
+        IntListVer2 list2 = new IntListVer2(100);
+        
+        //equal when empty?
+        System.out.println("list1.equals(list2): " + list1.equals(list2));
+        System.out.println("list1: " + list1);
+        System.out.println("list2: " + list2);
+        
+        //add elements
+        for(int i = 0; i < 100; i += 5){
+            list1.add(i);
+            list2.add(i);
+        }
+```
+
+Source: [View the IntListTesterVer2 source code](https://www.cs.utexas.edu/~scottm/cs307/javacode/codeSamples/IntListTesterVer2.java)
