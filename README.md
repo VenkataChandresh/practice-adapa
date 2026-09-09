@@ -38,3 +38,15 @@ There are many cities around the world that I would like to visit in the future.
 | Paris | Architecture and landmarks | 300 miles | $150 |
 | Dubai | Modern architecture and attractions | 3,000 miles | $500 |
 | New York City | Times Square and city life | 3,900 miles | $700 |
+
+---
+
+## Favorite Jokes and Sayings
+
+### Albert Einstein
+
+> Life is like riding a bicycle. To keep your balance, you must keep moving.
+
+### Oscar Wilde
+
+> Be yourself; everyone else is already taken.
